@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sayed Mariz Al Akib
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
+<br>
 I'm deeply passionate about evolving into a versatile full-stack developer. I thrive on the challenge of owning problems from start to finish and am always eager to acquire new skills and knowledge to deliver top-notch solutions. I'm particularly intrigued by the possibilities offered by A.I. API platforms and am keen on exploring their diverse use cases for developers.
 
 ## Connect with me ☕ :
