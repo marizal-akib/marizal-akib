@@ -3,9 +3,9 @@
 I'm deeply passionate about evolving into a versatile full-stack developer. I thrive on the challenge of owning problems from start to finish and am always eager to acquire new skills and knowledge to deliver top-notch solutions. I'm particularly intrigued by the possibilities offered by A.I. API platforms and am keen on exploring their diverse use cases for developers.
 
 ## Connect with me ☕ :
-
 <br>
 <p  align="center">
+
 [![@marizal-akib](https://img.icons8.com/fluency/48/000000/linkedin.png "@marizal-akib")](https://www.linkedin.com/in/sayed-mariz-al-akib-426917234) [![@07503143576](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@07503143576")](tel:07503143576) [![@marizalakib@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@marizalakib@gmail.com")](marizalakib@gmail.com)
 </p>
 
