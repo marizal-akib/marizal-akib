@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sayed Mariz Al Akib
 
-I specialize in front-end development using technologies like React.js and Tailwind CSS to create modern, responsive, and visually appealing interfaces. Eager to explore backend technologies, I'm diving into Node.js, Express.js, and MongoDB for robust server-side applications.
+I'm deeply passionate about evolving into a versatile full-stack developer. I thrive on the challenge of owning problems from start to finish and am always eager to acquire new skills and knowledge to deliver top-notch solutions. I'm particularly intrigued by the possibilities offered by A.I. API platforms and am keen on exploring their diverse use cases for developers.
 
 ## Connect with me ☕ :
 
@@ -10,6 +10,7 @@ I specialize in front-end development using technologies like React.js and Tailw
 
 <br>
 
+🚀 I specialize in front-end development using technologies like React.js and Tailwind CSS to create modern, responsive, and visually appealing interfaces. Eager to explore backend technologies, I'm diving into Node.js, Express.js, and MongoDB for robust server-side applications.
 ## My Recent Projects:
 
 ### 1. [Alpha Fitness Website](https://alpha-5a5a4.web.app/)
